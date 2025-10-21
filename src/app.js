@@ -1,10 +1,6 @@
 import "bootstrap";
 import "./style.css";
 
-
-//import "./assets/img/rigo-baby.jpg";
-//import "./assets/img/4geeks.ico";
-
 window.onload = function() {
 
   let who = ['The dog', 'My grandma', 'The mailman', 'My bird'];
@@ -24,5 +20,4 @@ window.onload = function() {
   let element = document.querySelector("#excuse")
   element.innerText = excuse;
 
-  //console.log("Hello Rigo from the console!");
 };
