@@ -2,7 +2,7 @@ import "bootstrap";
 import "./style.css";
 
 window.onload = function() {
-
+  // se agrega este comentario para hacer el pull request
   let who = ['The dog', 'My grandma', 'The mailman', 'My bird'];
   let action = ['ate', 'peed', 'crushed', 'broke'];
   let what = ['my homework', 'my phone', 'the car'];
